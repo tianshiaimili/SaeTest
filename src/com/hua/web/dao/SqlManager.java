@@ -40,7 +40,7 @@ public class SqlManager
 	 * Config2.properties 是连接SAE上的db
 	 * 可以参考博客 http://blog.csdn.net/baiyuliang2013/article/details/24725995
 	 */
-	private final static String PropertiesFile = "Config2.properties";
+	private final static String PropertiesFile = "Config3.properties";
 
 	/**
 	 * 私有构造函数,不可实例化
